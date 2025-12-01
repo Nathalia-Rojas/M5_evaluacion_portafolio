@@ -15,7 +15,7 @@ Este proyecto aborda los siguientes requerimientos técnicos y conceptuales:
 | **Modelamiento de Datos (ERD)** | `01-Modelado-Datos/README.md` | ✅ Completado |
 | **Definición de Datos (DDL)** | `02-Estructura-DDL/script_creacion.sql` | ✅ Completado |
 | **Manipulación de Datos (DML)** | `03-Manipulacion-DML/inserts_updates.sql` | ✅ Completado |
-| **Consultas SQL Avanzadas** | `04-Consultas-SQL/reportes.sql` | 🚧 Pendiente de terminar |
+| **Consultas SQL Avanzadas** | `04-Consultas-SQL/reportes.sql` | ✅ Completado |
 | **Conceptos Fundamentales RDBMS** | Ver [Sección Teórica](#2-conceptos-fundamentales) | ✅ Completado |
 
 ---
@@ -39,5 +39,5 @@ Este proyecto aborda los siguientes requerimientos técnicos y conceptuales:
 ---
 
 <div align="center">
-  Realizado por [Tu Nombre Completo]
+  Realizado por Nathalia Rojas
 </div>
