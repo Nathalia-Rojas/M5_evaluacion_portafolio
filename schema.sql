@@ -1,5 +1,5 @@
-CREATE DATABASE Libreria_Online;
-USE Libreria_Online;
+CREATE DATABASE Libreria_Online_DB;
+USE Libreria_Online_DB;
 
 -- Crear tabla de Autores (Entidad fuerte)
 CREATE TABLE Autores (
